@@ -37,6 +37,6 @@ public class ContactsManagementControllerIntegrationTest {
 
         String response = contactsManagementController.processAddContact(customerContact);
         assertThat(response, is(equalTo("redirect:/showAddContact")));
-        
+
     }
 }

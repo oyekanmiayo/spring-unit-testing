@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <customer_contact id="1" first_name="John" email="john@springtest.com" />
+    <customer_contact id="2" first_name="Tony" email="tony@springtest.com" />
+    <customer_contact id="3" first_name="Sanmi" email="sanmi@springtest.com" />
+</dataset>
